@@ -8,3 +8,4 @@ config/config-prod.json
 s.jlongster.com
 sv
 files
+.idea
